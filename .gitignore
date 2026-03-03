@@ -1,0 +1,6 @@
+# Platform IO
+**.pio/
+**/.vscode
+
+# Mac
+.DS_Store
