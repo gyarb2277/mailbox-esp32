@@ -4,8 +4,8 @@
 #include "DHT.h"
 
 // WiFi
-const char* WIFI_SSID = "TP-Link_85C8";
-const char* WIFI_PASS = "2296Gm1uLtnF";
+const char* WIFI_SSID = "SSID";
+const char* WIFI_PASS = "PASSWORD";
 
 // ESP32-CAM
 const char* CAM_HOST = "192.168.0.249";
