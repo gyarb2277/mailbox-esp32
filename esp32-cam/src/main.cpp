@@ -3,8 +3,8 @@
 #include <WebServer.h>
 
 // WIFI
-const char* ssid = "TP-Link_85C8";
-const char* password = "2296Gm1uLtnF";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 WebServer server(80);
 
