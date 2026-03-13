@@ -8,7 +8,7 @@ const char* WIFI_SSID = "SSID";
 const char* WIFI_PASS = "PASSWORD";
 
 // ESP32-CAM
-const char* CAM_HOST = "192.168.0.249";
+const char* CAM_HOST = "192.168.0.60";
 const int   CAM_PORT = 80;
 
 // Pins (fast)
