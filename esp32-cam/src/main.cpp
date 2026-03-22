@@ -3,6 +3,10 @@
 #include <WebServer.h>
 
 // WIFI
+IPAddress local_IP(192, 168, 0, 60);
+IPAddress gateway(192, 168, 0, 1);
+IPAddress subnet(255, 255, 255, 0);
+
 const char* ssid = "SSID";
 const char* password = "PASSWORD";
 
@@ -93,6 +97,8 @@ void setup() {
 
   startCamera();
 
+  WiFi.config(local_IP, gateway, subnet);
+  WiFi.mode(WIFI_STA);
   WiFi.begin(ssid, password);
 
   while (WiFi.status() != WL_CONNECTED) {
