@@ -110,7 +110,7 @@ String page() {
   s += "<a href='/clr'><button style='font-size:18px;padding:10px'>Nollställ</button></a></p>";
 
   s += "<h3>Senaste bild</h3>";
-s += "<img src='http://192.168.0.249/jpg?v=" + String(imgVer) + "' style='max-width:100%;border:1px solid #ccc'>";  s += "<p><a href='/'>Uppdatera</a></p>";
+s += "<img src='http://" + String(CAM_HOST) + "/jpg?v=" + String(imgVer) + "' style='max-width:100%;border:1px solid #ccc'>";  s += "<p><a href='/'>Uppdatera</a></p>";
   s += "</body></html>";
   return s;
 }
