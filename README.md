@@ -81,7 +81,7 @@ Contains:
 ### Secondary enclosure
 
 <p align="center">
-  <img src="images/sekundärlada_sprängd.png" width="500">
+  <img src="images/sekundärlåda_sprängd.png" width="500">
 </p>
 
 Contains:
