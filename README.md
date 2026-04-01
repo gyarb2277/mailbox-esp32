@@ -7,7 +7,7 @@ A microcontroller-based smart mailbox that detects mail delivery and captures im
 ## 📸 Final Prototype
 
 <p align="center">
-  <img src="images/brevlada_tot_v5.png" width="600">
+  <img src="images/inifrån.png" width="600">
 </p>
 
 The complete system integrated into a standard outdoor mailbox.
@@ -60,7 +60,7 @@ The combination of sensors improves detection reliability compared to using a si
 ## 🔌 Electronics & PCB
 
 <p align="center">
-  <img src="images/pcb_3d.png" width="500">
+  <img src="images/pcb_3Dview.png" width="500">
 </p>
 
 A custom-designed PCB is used to:
@@ -76,7 +76,7 @@ A custom-designed PCB is used to:
 ### Main enclosure
 
 <p align="center">
-  <img src="images/huvudlada_sprangd.png" width="500">
+  <img src="images/huvudlåda_sprängd.png" width="500">
 </p>
 
 Contains:
@@ -90,7 +90,7 @@ Contains:
 ### Secondary enclosure
 
 <p align="center">
-  <img src="images/sekundarlada_sprangd.png" width="500">
+  <img src="images/sekundärlada_sprängd.png" width="500">
 </p>
 
 Contains:
@@ -104,8 +104,8 @@ Contains:
 ## 🏗️ Physical Installation
 
 <p align="center">
-  <img src="images/framifran.png" width="45%">
-  <img src="images/bakifran.png" width="45%">
+  <img src="images/framifrån.png" width="45%">
+  <img src="images/bakifrån.png" width="45%">
 </p>
 
 The system is mounted directly inside the mailbox with carefully planned placement of sensors, camera and electronics.
