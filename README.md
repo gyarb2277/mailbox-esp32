@@ -1,21 +1,12 @@
-# 📬 Smart Mailbox (ESP32 + ESP32-CAM)
+#  Smart Mailbox (ESP32 + ESP32-CAM)
 
 A microcontroller-based smart mailbox that detects mail delivery and captures images locally using sensors and an ESP32-CAM.
-
----
-
-## 📸 Final Prototype
-
-<p align="center">
-  <img src="images/inifrån.png" width="600">
-</p>
-
-The complete system integrated into a standard outdoor mailbox.
+The complete system is integrated into a standard outdoor mailbox.
 All electronics, sensors and camera modules are mounted internally and adapted for outdoor operation.
 
 ---
 
-## 💡 System in Operation
+##  System in Operation
 
 <p align="center">
   <img src="images/lampa_aktiv.png" width="500">
@@ -25,7 +16,7 @@ When a delivery is detected, internal lighting is activated and an image is capt
 
 ---
 
-## 🧠 System Overview
+##  System Overview
 
 <p align="center">
   <img src="images/system_naket.png" width="500">
@@ -44,7 +35,7 @@ This view shows the internal system layout without the mailbox enclosure.
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The mailbox door opens → detected by microswitch
 2. Mail passes into the box → detected by IR sensor
@@ -57,7 +48,7 @@ The combination of sensors improves detection reliability compared to using a si
 
 ---
 
-## 🔌 Electronics & PCB
+##  Electronics & PCB
 
 <p align="center">
   <img src="images/pcb_3Dview.png" width="500">
@@ -71,7 +62,7 @@ A custom-designed PCB is used to:
 
 ---
 
-## 📦 Enclosures (Kapslingar)
+##  Enclosures (Kapslingar)
 
 ### Main enclosure
 
@@ -101,7 +92,7 @@ Contains:
 
 ---
 
-## 🏗️ Physical Installation
+##  Physical Installation
 
 <p align="center">
   <img src="images/framifrån.png" width="45%">
@@ -112,7 +103,7 @@ The system is mounted directly inside the mailbox with carefully planned placeme
 
 ---
 
-## 🧩 Hardware Design Considerations
+##  Hardware Design Considerations
 
 * Dual-sensor detection increases robustness
 * Components are physically separated to reduce interference
@@ -122,7 +113,7 @@ The system is mounted directly inside the mailbox with carefully planned placeme
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 .
@@ -149,7 +140,7 @@ The system is mounted directly inside the mailbox with carefully planned placeme
 
 ---
 
-## 🚀 Setup
+##  Setup
 
 1. Flash code to:
 
@@ -167,7 +158,7 @@ The system is mounted directly inside the mailbox with carefully planned placeme
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Improved timing between sensors and image capture
 * Notification system (mobile / email)
@@ -176,9 +167,9 @@ The system is mounted directly inside the mailbox with carefully planned placeme
 
 ---
 
-## 📄 Project Context
+## Project Context
 
-This project was developed as part of a Swedish upper secondary engineering project, focusing on:
+This project was developed as part of a school engineering project and could later be improved in many ways.
 
 * Embedded systems
 * Sensor integration
@@ -186,6 +177,6 @@ This project was developed as part of a Swedish upper secondary engineering proj
 
 ---
 
-## 👤 Author
+##  Author
 
 [Your Name]
