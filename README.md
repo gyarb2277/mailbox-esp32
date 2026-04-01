@@ -62,7 +62,7 @@ A custom-designed PCB is used to:
 
 ---
 
-##  Enclosures (Kapslingar)
+##  Enclosures
 
 ### Main enclosure
 
