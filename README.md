@@ -113,33 +113,6 @@ The system is mounted directly inside the mailbox with carefully planned placeme
 
 ---
 
-##  Project Structure
-
-```
-.
-├── esp32-main/
-│   └── src/
-│
-├── esp32-cam/
-│   └── src/
-│
-├── schematics/
-│
-├── images/
-│   ├── brevlada_tot_v5.png
-│   ├── system_naket.png
-│   ├── pcb_3d.png
-│   ├── huvudlada_sprangd.png
-│   ├── sekundarlada_sprangd.png
-│   ├── framifran.png
-│   ├── bakifran.png
-│   └── lampa_aktiv.png
-│
-└── README.md
-```
-
----
-
 ##  Setup
 
 1. Flash code to:
